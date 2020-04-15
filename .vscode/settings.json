@@ -1,0 +1,6 @@
+{
+    "javascript.implicitProjectConfig.checkJs": true,
+    "cSpell.words": [
+        "nextjs"
+    ]
+}
